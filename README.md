@@ -1,5 +1,5 @@
 ## Slay-The-Spire-2-Trainer
-My Trainer for Slay The Spire 2. Made with love!
+My Trainer for Slay The Spire 2. Made with love <3!
 
 ## Preview
 ![Project Screenshot](assets/Screenshot_sts2_vs.jpg)
