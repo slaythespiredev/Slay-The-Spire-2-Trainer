@@ -5,6 +5,7 @@ import random
 import os
 
 print("PRE Post: Hello!")
+print("PRE Post: Please, wait a bit.")
 
 class GameState:
     def __init__(self):
