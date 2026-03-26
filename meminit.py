@@ -9,6 +9,7 @@ import datetime
 import json
 
 print("PRE Post: Hello!")
+print("PRE Post: memory loading...")
 print("PRE Post: Please, wait a bit.")
 
 class GameState:
