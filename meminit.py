@@ -4,6 +4,8 @@ import keyboard
 import random
 import os
 
+print("PRE Post: Hello!")
+
 class GameState:
     def __init__(self):
         self.hp = 80
@@ -170,5 +172,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
